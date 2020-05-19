@@ -31,6 +31,7 @@ Known supported devices:
 - Denon AVR-3312
 - Denon AVR-4810
 - Denon AVR-S750H
+- Denon AVR-S710W
 - Marantz M-CR510
 - Marantz M-CR603
 - Marantz M-CR610
